@@ -1,0 +1,217 @@
+HCP_ID,Account_ID,Account_Name
+HCP001,ACC001,Northside General Hospital
+HCP002,ACC001,Northside General Hospital
+HCP003,ACC001,Northside General Hospital
+HCP004,ACC001,Northside General Hospital
+HCP005,ACC001,Northside General Hospital
+HCP006,ACC001,Northside General Hospital
+HCP007,ACC001,Northside General Hospital
+HCP008,ACC001,Northside General Hospital
+HCP009,ACC001,Northside General Hospital
+HCP010,ACC001,Northside General Hospital
+HCP011,ACC001,Northside General Hospital
+HCP012,ACC001,Northside General Hospital
+HCP013,ACC001,Northside General Hospital
+HCP014,ACC001,Northside General Hospital
+HCP015,ACC001,Northside General Hospital
+HCP016,ACC001,Northside General Hospital
+HCP017,ACC001,Northside General Hospital
+HCP018,ACC001,Northside General Hospital
+HCP019,ACC001,Northside General Hospital
+HCP020,ACC001,Northside General Hospital
+HCP021,ACC001,Northside General Hospital
+HCP022,ACC001,Northside General Hospital
+HCP023,ACC001,Northside General Hospital
+HCP024,ACC002,Eastview Medical Center
+HCP025,ACC002,Eastview Medical Center
+HCP026,ACC002,Eastview Medical Center
+HCP027,ACC002,Eastview Medical Center
+HCP029,ACC002,Eastview Medical Center
+HCP030,ACC002,Eastview Medical Center
+HCP031,ACC002,Eastview Medical Center
+HCP032,ACC002,Eastview Medical Center
+HCP033,ACC002,Eastview Medical Center
+HCP034,ACC002,Eastview Medical Center
+HCP035,ACC002,Eastview Medical Center
+HCP036,ACC002,Eastview Medical Center
+HCP037,ACC002,Eastview Medical Center
+HCP038,ACC002,Eastview Medical Center
+HCP039,ACC002,Eastview Medical Center
+HCP040,ACC002,Eastview Medical Center
+HCP041,ACC002,Eastview Medical Center
+HCP042,ACC003,Riverside Health System
+HCP043,ACC003,Riverside Health System
+HCP044,ACC003,Riverside Health System
+HCP045,ACC003,Riverside Health System
+HCP046,ACC003,Riverside Health System
+HCP047,ACC003,Riverside Health System
+HCP048,ACC003,Riverside Health System
+HCP049,ACC003,Riverside Health System
+HCP050,ACC003,Riverside Health System
+HCP051,ACC003,Riverside Health System
+HCP052,ACC003,Riverside Health System
+HCP053,ACC003,Riverside Health System
+HCP054,ACC003,Riverside Health System
+HCP055,ACC003,Riverside Health System
+HCP056,ACC003,Riverside Health System
+HCP057,ACC003,Riverside Health System
+HCP058,ACC003,Riverside Health System
+HCP059,ACC003,Riverside Health System
+HCP060,ACC003,Riverside Health System
+HCP061,ACC003,Riverside Health System
+HCP062,ACC003,Riverside Health System
+HCP063,ACC003,Riverside Health System
+HCP064,ACC003,Riverside Health System
+HCP065,ACC003,Riverside Health System
+HCP066,ACC004,Metro Regional Hospital
+HCP067,ACC004,Metro Regional Hospital
+HCP068,ACC004,Metro Regional Hospital
+HCP069,ACC004,Metro Regional Hospital
+HCP070,ACC004,Metro Regional Hospital
+HCP071,ACC004,Metro Regional Hospital
+HCP072,ACC004,Metro Regional Hospital
+HCP073,ACC004,Metro Regional Hospital
+HCP074,ACC004,Metro Regional Hospital
+HCP075,ACC004,Metro Regional Hospital
+HCP076,ACC004,Metro Regional Hospital
+HCP077,ACC004,Metro Regional Hospital
+HCP078,ACC004,Metro Regional Hospital
+HCP079,ACC004,Metro Regional Hospital
+HCP080,ACC004,Metro Regional Hospital
+HCP081,ACC004,Metro Regional Hospital
+HCP082,ACC004,Metro Regional Hospital
+HCP083,ACC005,Lakewood Medical Center
+HCP084,ACC005,Lakewood Medical Center
+HCP085,ACC005,Lakewood Medical Center
+HCP086,ACC005,Lakewood Medical Center
+HCP087,ACC005,Lakewood Medical Center
+HCP089,ACC005,Lakewood Medical Center
+HCP090,ACC005,Lakewood Medical Center
+HCP091,ACC005,Lakewood Medical Center
+HCP092,ACC005,Lakewood Medical Center
+HCP093,ACC005,Lakewood Medical Center
+HCP094,ACC005,Lakewood Medical Center
+HCP095,ACC005,Lakewood Medical Center
+HCP096,ACC005,Lakewood Medical Center
+HCP097,ACC005,Lakewood Medical Center
+HCP098,ACC005,Lakewood Medical Center
+HCP099,ACC006,Central University Hospital
+HCP100,ACC006,Central University Hospital
+HCP101,ACC006,Central University Hospital
+HCP102,ACC006,Central University Hospital
+HCP103,ACC006,Central University Hospital
+HCP104,ACC006,Central University Hospital
+HCP106,ACC006,Central University Hospital
+HCP107,ACC006,Central University Hospital
+HCP108,ACC006,Central University Hospital
+HCP109,ACC006,Central University Hospital
+HCP110,ACC006,Central University Hospital
+HCP111,ACC006,Central University Hospital
+HCP112,ACC006,Central University Hospital
+HCP113,ACC006,Central University Hospital
+HCP114,ACC006,Central University Hospital
+HCP115,ACC006,Central University Hospital
+HCP116,ACC006,Central University Hospital
+HCP117,ACC006,Central University Hospital
+HCP118,ACC007,Pinecrest Hospital
+HCP119,ACC007,Pinecrest Hospital
+HCP120,ACC007,Pinecrest Hospital
+HCP121,ACC007,Pinecrest Hospital
+HCP122,ACC007,Pinecrest Hospital
+HCP123,ACC007,Pinecrest Hospital
+HCP124,ACC007,Pinecrest Hospital
+HCP125,ACC007,Pinecrest Hospital
+HCP126,ACC007,Pinecrest Hospital
+HCP127,ACC007,Pinecrest Hospital
+HCP128,ACC007,Pinecrest Hospital
+HCP129,ACC007,Pinecrest Hospital
+HCP130,ACC007,Pinecrest Hospital
+HCP131,ACC008,Harborview Clinic
+HCP132,ACC008,Harborview Clinic
+HCP133,ACC008,Harborview Clinic
+HCP134,ACC008,Harborview Clinic
+HCP135,ACC008,Harborview Clinic
+HCP136,ACC008,Harborview Clinic
+HCP137,ACC008,Harborview Clinic
+HCP138,ACC009,Sunset Medical Group
+HCP139,ACC009,Sunset Medical Group
+HCP140,ACC009,Sunset Medical Group
+HCP141,ACC009,Sunset Medical Group
+HCP142,ACC009,Sunset Medical Group
+HCP143,ACC009,Sunset Medical Group
+HCP144,ACC009,Sunset Medical Group
+HCP145,ACC009,Sunset Medical Group
+HCP146,ACC009,Sunset Medical Group
+HCP147,ACC009,Sunset Medical Group
+HCP148,ACC009,Sunset Medical Group
+HCP149,ACC010,Valley Health Partners
+HCP150,ACC010,Valley Health Partners
+HCP151,ACC010,Valley Health Partners
+HCP152,ACC010,Valley Health Partners
+HCP153,ACC010,Valley Health Partners
+HCP154,ACC010,Valley Health Partners
+HCP155,ACC010,Valley Health Partners
+HCP156,ACC010,Valley Health Partners
+HCP157,ACC010,Valley Health Partners
+HCP158,ACC010,Valley Health Partners
+HCP159,ACC010,Valley Health Partners
+HCP160,ACC010,Valley Health Partners
+HCP161,ACC011,Summit Care Clinic
+HCP162,ACC011,Summit Care Clinic
+HCP163,ACC011,Summit Care Clinic
+HCP164,ACC011,Summit Care Clinic
+HCP165,ACC011,Summit Care Clinic
+HCP166,ACC011,Summit Care Clinic
+HCP167,ACC012,Greenfield Medical Associates
+HCP168,ACC012,Greenfield Medical Associates
+HCP169,ACC012,Greenfield Medical Associates
+HCP170,ACC012,Greenfield Medical Associates
+HCP171,ACC012,Greenfield Medical Associates
+HCP172,ACC012,Greenfield Medical Associates
+HCP173,ACC012,Greenfield Medical Associates
+HCP174,ACC012,Greenfield Medical Associates
+HCP175,ACC012,Greenfield Medical Associates
+HCP176,ACC012,Greenfield Medical Associates
+HCP177,ACC013,Oakdale Physicians Group
+HCP178,ACC013,Oakdale Physicians Group
+HCP180,ACC013,Oakdale Physicians Group
+HCP181,ACC013,Oakdale Physicians Group
+HCP182,ACC013,Oakdale Physicians Group
+HCP183,ACC014,Clearwater Health Center
+HCP184,ACC014,Clearwater Health Center
+HCP185,ACC014,Clearwater Health Center
+HCP186,ACC014,Clearwater Health Center
+HCP187,ACC014,Clearwater Health Center
+HCP188,ACC014,Clearwater Health Center
+HCP189,ACC015,Ridgecrest Community Hospital
+HCP190,ACC015,Ridgecrest Community Hospital
+HCP191,ACC015,Ridgecrest Community Hospital
+HCP192,ACC015,Ridgecrest Community Hospital
+HCP193,ACC015,Ridgecrest Community Hospital
+HCP194,ACC015,Ridgecrest Community Hospital
+HCP195,ACC015,Ridgecrest Community Hospital
+HCP196,ACC015,Ridgecrest Community Hospital
+HCP197,ACC016,Westside Family Medicine
+HCP198,ACC016,Westside Family Medicine
+HCP199,ACC016,Westside Family Medicine
+HCP200,ACC017,Maplewood Clinic
+HCP201,ACC017,Maplewood Clinic
+HCP202,ACC017,Maplewood Clinic
+HCP203,ACC018,Cedar Point Medical
+HCP204,ACC018,Cedar Point Medical
+HCP205,ACC018,Cedar Point Medical
+HCP206,ACC018,Cedar Point Medical
+HCP207,ACC019,Hillside Health Practice
+HCP208,ACC019,Hillside Health Practice
+HCP209,ACC019,Hillside Health Practice
+HCP210,ACC019,Hillside Health Practice
+HCP211,ACC020,Thornton Medical Group
+HCP212,ACC020,Thornton Medical Group
+HCP213,ACC020,Thornton Medical Group
+HCP214,ACC021,Blue Ridge Physicians
+HCP215,ACC021,Blue Ridge Physicians
+HCP216,ACC021,Blue Ridge Physicians
+HCP217,ACC021,Blue Ridge Physicians
+HCP218,ACC022,Ashwood Family Practice
+HCP219,ACC022,Ashwood Family Practice
+HCP220,ACC023,Springdale Medical Center
